@@ -1,0 +1,229 @@
+<Configuration>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CodeCleanup RecentlyUsed="BeaconSCM">
+    <Profile name="BeaconSCM">
+      <CSArrangeThisQualifier>True</CSArrangeThisQualifier>
+      <CSRemoveCodeRedundancies>True</CSRemoveCodeRedundancies>
+      <CSUseAutoProperty>True</CSUseAutoProperty>
+      <CSMakeFieldReadonly>True</CSMakeFieldReadonly>
+      <CSUseVar>
+        <BehavourStyle>DISABLED</BehavourStyle>
+        <LocalVariableStyle>ALWAYS_EXPLICIT</LocalVariableStyle>
+        <ForeachVariableStyle>ALWAYS_EXPLICIT</ForeachVariableStyle>
+      </CSUseVar>
+      <CSUpdateFileHeader>False</CSUpdateFileHeader>
+      <VBOptimizeImports>False</VBOptimizeImports>
+      <VBShortenReferences>False</VBShortenReferences>
+      <CSOptimizeUsings>
+        <OptimizeUsings>True</OptimizeUsings>
+        <EmbraceInRegion>False</EmbraceInRegion>
+        <RegionName>
+        </RegionName>
+      </CSOptimizeUsings>
+      <CSShortenReferences>True</CSShortenReferences>
+      <VBReformatCode>False</VBReformatCode>
+      <CSReformatCode>True</CSReformatCode>
+      <CSReorderTypeMembers>True</CSReorderTypeMembers>
+    </Profile>
+  </CodeCleanup>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:IBeaconSCMConfiguration.cs" caret="118" scrollPosition="0|0" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:BeaconSCMConfiguration.cs" caret="0" scrollPosition="0|0" />
+      <File id="DC8DECD9-4979-414D-A624-50D6C226D4AF/f:Result.cs" caret="241" scrollPosition="0|0" />
+      <File id="51C0ECCA-544C-4E22-B4D6-5AFEC5204D4C/f:TestBase.cs" caret="77" scrollPosition="0|0" />
+      <File id="51C0ECCA-544C-4E22-B4D6-5AFEC5204D4C/f:TestClassTwo.cs" caret="126" scrollPosition="0|0" />
+      <File id="51C0ECCA-544C-4E22-B4D6-5AFEC5204D4C/f:TestClassOne.cs" caret="126" scrollPosition="0|0" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:CastleWindsorFrameworkHelper.cs" caret="372" scrollPosition="0|0" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:IServiceStringGenerator.cs" caret="0" scrollPosition="0|0" />
+      <File id="DC8DECD9-4979-414D-A624-50D6C226D4AF/d:TestConfigurationData/f:ServiceConfigB.config" caret="0" scrollPosition="0|0" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:ServiceStringGenerator.cs" caret="0" scrollPosition="0|0" />
+      <File id="DC8DECD9-4979-414D-A624-50D6C226D4AF/f:App.config" caret="0" scrollPosition="0|0" />
+      <File id="DC8DECD9-4979-414D-A624-50D6C226D4AF/f:BeaconSCMConfigurationTest.cs" caret="1817" scrollPosition="8|24" />
+      <File id="DC8DECD9-4979-414D-A624-50D6C226D4AF/f:ServiceStringGeneratorTest.cs" caret="837" scrollPosition="12|3" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:App.config" caret="0" scrollPosition="0|0" />
+      <File id="DC8DECD9-4979-414D-A624-50D6C226D4AF/f:WCFServiceWriterTest.cs" caret="0" scrollPosition="0|0" />
+      <File id="8BE11403-F03F-43A7-8DE9-C546A33EDF15/f:README.txt" caret="193" scrollPosition="0|0" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/d:Config/f:Components.config" caret="777" scrollPosition="0|0" />
+      <File id="DC8DECD9-4979-414D-A624-50D6C226D4AF/d:TestConfigurationData/f:ServiceConfigA.config" caret="0" scrollPosition="0|0" />
+      <File id="DC8DECD9-4979-414D-A624-50D6C226D4AF/d:Config/f:Properties.config" caret="1002" scrollPosition="0|0" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/d:Config/f:Properties.config" caret="2359" scrollPosition="0|35" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:IAssemblyReader.cs" caret="719" scrollPosition="0|0" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:BeaconAssemblyReader.cs" caret="3709" scrollPosition="0|0" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:RunBeaconSCM.cs" caret="356" scrollPosition="0|0" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:WCFServiceWriter.cs" caret="175" scrollPosition="0|0" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:IServiceWriter.cs" caret="208" scrollPosition="0|0" />
+      <File id="DC8DECD9-4979-414D-A624-50D6C226D4AF/f:BeaconAssemblyReaderTest.cs" caret="362" scrollPosition="0|6" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:BeaconAssemblyReader.cs" caret="4259" scrollPosition="0|35" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:BeaconAssemblyReader.cs" caret="4259" scrollPosition="0|52" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:BeaconAssemblyReader.cs" caret="4259" scrollPosition="0|4" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/d:Config/f:Properties.config" caret="333" scrollPosition="0|0" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/d:Config/f:Properties.config" caret="1389" scrollPosition="0|35" />
+      <File id="DC8DECD9-4979-414D-A624-50D6C226D4AF/d:Config/f:Properties.config" caret="1002" scrollPosition="0|21" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/d:Config/f:Properties.config" caret="2359" scrollPosition="0|39" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:BeaconAssemblyReader.cs" caret="4259" scrollPosition="0|33" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:BeaconAssemblyReader.cs" caret="4259" scrollPosition="96|41" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:IAssemblyReader.cs" caret="644" scrollPosition="0|0" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:BeaconAssemblyReader.cs" caret="4259" scrollPosition="0|6" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:BeaconAssemblyReader.cs" caret="4259" scrollPosition="0|21" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:BeaconAssemblyReader.cs" caret="4259" scrollPosition="0|0" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:BeaconAssemblyReader.cs" caret="4259" scrollPosition="0|31" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:BeaconAssemblyReader.cs" caret="4259" scrollPosition="0|40" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:BeaconAssemblyReader.cs" caret="4259" scrollPosition="0|23" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:BeaconAssemblyReader.cs" caret="4259" scrollPosition="0|50" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:BeaconAssemblyReader.cs" caret="4259" scrollPosition="0|77" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:BeaconAssemblyReader.cs" caret="4259" scrollPosition="0|29" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:BeaconAssemblyReader.cs" caret="4259" scrollPosition="0|74" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:BeaconAssemblyReader.cs" caret="4259" scrollPosition="30|72" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:BeaconAssemblyReader.cs" caret="3104" scrollPosition="0|79" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:BeaconAssemblyReader.cs" caret="3709" scrollPosition="0|79" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:RunBeaconSCM.cs" caret="420" scrollPosition="0|0" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:WCFServiceWriter.cs" caret="787" scrollPosition="0|18" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:WCFServiceWriter.cs" caret="1196" scrollPosition="0|27" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:WCFServiceWriter.cs" caret="2369" scrollPosition="27|39" />
+      <File id="F24E2952-172C-49F0-A6B4-0599162F92E0/f:IServiceWriter.cs" caret="208" scrollPosition="0|0" />
+      <File id="DC8DECD9-4979-414D-A624-50D6C226D4AF/f:BeaconAssemblyReaderTest.cs" caret="895" scrollPosition="0|9" />
+      <File id="DC8DECD9-4979-414D-A624-50D6C226D4AF/f:BeaconAssemblyReaderTest.cs" caret="1373" scrollPosition="0|9" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="windsorContainer" priority="1" />
+      <Item value="configuration" priority="4" />
+      <Item value="TestInitialize" priority="0" />
+      <Item value="castleWindsorFrameworkHelper" priority="0" />
+      <Item value="WindsorContainer" priority="0" />
+      <Item value="Assert" priority="9" />
+      <Item value="IsNotNull" priority="2" />
+      <Item value="AssemblyLocations" priority="2" />
+      <Item value="TestMethod" priority="0" />
+      <Item value="ServiceFileLocations" priority="2" />
+      <Item value="FAILED_TO_LOAD" priority="3" />
+      <Item value="Trim" priority="0" />
+      <Item value="LoadFrom" priority="3" />
+      <Item value="beaconSCMConfiguration" priority="0" />
+      <Item value="Configuration" priority="1" />
+      <Item value="assembly" priority="2" />
+      <Item value="GetTypes" priority="0" />
+      <Item value="AssemblyQualifiedName" priority="0" />
+      <Item value="BaseType" priority="4" />
+      <Item value="Name" priority="12" />
+      <Item value="FullName" priority="3" />
+      <Item value="ToArray" priority="0" />
+      <Item value="IAssemblyReader" priority="0" />
+      <Item value="assemblyReader" priority="1" />
+      <Item value="GetClassesDerivedFrom" priority="2" />
+      <Item value="derivedFrom" priority="1" />
+      <Item value="LoadFile" priority="0" />
+      <Item value="ReflectionOnlyLoadFrom" priority="0" />
+      <Item value="ITestBase" priority="0" />
+      <Item value="Format" priority="0" />
+      <Item value="baseClassName" priority="1" />
+      <Item value="IsNullOrEmpty" priority="1" />
+      <Item value="namespaceName" priority="1" />
+      <Item value="IServiceStringEditor" priority="0" />
+      <Item value="IServiceStringGenerator" priority="1" />
+      <Item value="serviceStringGenerator" priority="1" />
+      <Item value="FAILED_TO_INITIALISE" priority="1" />
+      <Item value="AreEqual" priority="0" />
+      <Item value="string" priority="12" />
+      <Item value="_serviceStringGenerator" priority="0" />
+      <Item value="GetServiceString" priority="1" />
+      <Item value="serviceString" priority="0" />
+      <Item value="Split" priority="1" />
+      <Item value="serviceFileElements" priority="1" />
+      <Item value="serviceFileLocation" priority="3" />
+      <Item value="xmlTextWriter" priority="0" />
+      <Item value="Encoding.GetEncoding" priority="0" />
+      <Item value="Default" priority="0" />
+      <Item value="serviceWriter" priority="2" />
+      <Item value="document" priority="0" />
+      <Item value="Load" priority="1" />
+      <Item value="DocumentElement" priority="1" />
+      <Item value="xmlNode" priority="1" />
+      <Item value="stack" priority="0" />
+      <Item value="Count" priority="4" />
+      <Item value="ChildNodes" priority="5" />
+      <Item value="Pop" priority="2" />
+      <Item value="RecurseNode" priority="0" />
+      <Item value="Equals" priority="2" />
+      <Item value="InnerText" priority="1" />
+      <Item value="InnerXml" priority="0" />
+      <Item value="serviceClasses" priority="0" />
+      <Item value="ServiceStringGenerator" priority="0" />
+      <Item value="serviceClass" priority="4" />
+      <Item value="LastIndexOf" priority="2" />
+      <Item value="serviceClassName" priority="0" />
+      <Item value="Substring" priority="4" />
+      <Item value="stringBuilder" priority="3" />
+      <Item value="AppendLine" priority="0" />
+      <Item value="IServiceWriter" priority="0" />
+      <Item value="Result" priority="0" />
+      <Item value="WriteServices" priority="0" />
+      <Item value="Length" priority="2" />
+      <Item value="xmlDocument" priority="3" />
+      <Item value="XmlDocument" priority="0" />
+      <Item value="node" priority="1" />
+      <Item value="HasChildNodes" priority="1" />
+      <Item value="childNode" priority="0" />
+      <Item value="Message" priority="0" />
+      <Item value="ReflectionOnlyLoad" priority="0" />
+      <Item value="args" priority="1" />
+      <Item value="if" priority="2" />
+      <Item value="type" priority="10" />
+      <Item value="Attributes" priority="3" />
+      <Item value="TypeAttributes" priority="0" />
+      <Item value="attributes" priority="1" />
+      <Item value="GetObjectData" priority="0" />
+      <Item value="MemberType" priority="0" />
+      <Item value="GetMember" priority="0" />
+      <Item value="foreach" priority="2" />
+      <Item value="memberInfo" priority="2" />
+      <Item value="GetCustomAttributes" priority="3" />
+      <Item value="CustomAttributeData" priority="0" />
+      <Item value="data" priority="3" />
+      <Item value="GetType" priority="0" />
+      <Item value="ToString" priority="4" />
+      <Item value="IndexOf" priority="2" />
+      <Item value="String" priority="2" />
+      <Item value="sub" priority="2" />
+      <Item value="Assembly" priority="0" />
+      <Item value="Console" priority="0" />
+      <Item value="OutputEncoding" priority="0" />
+      <Item value="Out" priority="0" />
+      <Item value="Write" priority="0" />
+      <Item value="namespaceS" priority="0" />
+      <Item value="Dictionary" priority="2" />
+      <Item value="attributeName" priority="0" />
+      <Item value="return" priority="1" />
+      <Item value="new" priority="1" />
+      <Item value="NotImplementedException" priority="0" />
+      <Item value="null" priority="0" />
+      <Item value="GetNamespaceName" priority="1" />
+      <Item value="GetClassesDecoratedWith" priority="0" />
+      <Item value="KeyValuePair" priority="0" />
+      <Item value="Key" priority="0" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beacon.SCM", "Beacon.SCM\Beacon.SCM.csproj", "{F24E2952-172C-49F0-A6B4-0599162F92E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beacon.SCM.Test", "Beacon.SCM.Test\Beacon.SCM.Test.csproj", "{DC8DECD9-4979-414D-A624-50D6C226D4AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8BE11403-F03F-43A7-8DE9-C546A33EDF15}"
+	ProjectSection(SolutionItems) = preProject
+		Beacon.SCM.vsmdi = Beacon.SCM.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAssembly", "TestAssembly\TestAssembly.csproj", "{51C0ECCA-544C-4E22-B4D6-5AFEC5204D4C}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Beacon.SCM.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F24E2952-172C-49F0-A6B4-0599162F92E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24E2952-172C-49F0-A6B4-0599162F92E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24E2952-172C-49F0-A6B4-0599162F92E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24E2952-172C-49F0-A6B4-0599162F92E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC8DECD9-4979-414D-A624-50D6C226D4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC8DECD9-4979-414D-A624-50D6C226D4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC8DECD9-4979-414D-A624-50D6C226D4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC8DECD9-4979-414D-A624-50D6C226D4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51C0ECCA-544C-4E22-B4D6-5AFEC5204D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C0ECCA-544C-4E22-B4D6-5AFEC5204D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C0ECCA-544C-4E22-B4D6-5AFEC5204D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C0ECCA-544C-4E22-B4D6-5AFEC5204D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

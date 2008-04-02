@@ -1,0 +1,16 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\Beacon.SCM\bin\Release\Config\Components.config
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\Beacon.SCM\bin\Release\Config\Properties.config
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\Beacon.SCM\bin\Release\Beacon.SCM.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\Beacon.SCM\bin\Release\Beacon.SCM.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\Beacon.SCM\bin\Release\Beacon.SCM.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\Beacon.SCM\bin\Release\Castle.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\Beacon.SCM\bin\Release\Castle.MicroKernel.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\Beacon.SCM\bin\Release\Castle.Windsor.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\Beacon.SCM\bin\Release\Castle.DynamicProxy2.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\Beacon.SCM\bin\Release\Castle.Windsor.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\Beacon.SCM\bin\Release\Castle.Core.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\Beacon.SCM\bin\Release\Castle.DynamicProxy2.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\Beacon.SCM\bin\Release\Castle.MicroKernel.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\Beacon.SCM\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\Beacon.SCM\obj\Release\Beacon.SCM.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\Beacon.SCM\obj\Release\Beacon.SCM.pdb
