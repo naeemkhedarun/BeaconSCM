@@ -14,3 +14,6 @@ C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\Beacon.S
 C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\Beacon.SCM\obj\Release\ResolveAssemblyReference.cache
 C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\Beacon.SCM\obj\Release\Beacon.SCM.exe
 C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\Beacon.SCM\obj\Release\Beacon.SCM.pdb
+G:\Projects\BeaconSCM\Beacon.SCM\bin\Release\Beacon.SCM.exe.config
+G:\Projects\BeaconSCM\Beacon.SCM\obj\Release\Beacon.SCM.exe
+G:\Projects\BeaconSCM\Beacon.SCM\obj\Release\Beacon.SCM.pdb
