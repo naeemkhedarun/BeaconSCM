@@ -1,5 +1,0 @@
-C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\TestAssembly\bin\Release\TestAssembly.dll
-C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\TestAssembly\bin\Release\TestAssembly.pdb
-C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\TestAssembly\obj\Release\ResolveAssemblyReference.cache
-C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\TestAssembly\obj\Release\TestAssembly.dll
-C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Beacon.SCM\TestAssembly\obj\Release\TestAssembly.pdb
